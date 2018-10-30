@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "144999043348",
+    "firebase_url": "https://sreekeefirebasedemo-e64e4.firebaseio.com",
+    "project_id": "sreekeefirebasedemo-e64e4",
+    "storage_bucket": "sreekeefirebasedemo-e64e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144999043348:android:2c47a27c956f62bd",
+        "android_client_info": {
+          "package_name": "tech.sasurieinfo.sreekee_firebase_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144999043348-79r0nhei8mur9epq50efvmeg61fcaj2f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tech.sasurieinfo.sreekee_firebase_demo",
+            "certificate_hash": "64cd8d335b0e2d1bc59295a7a2e5e585f470785e"
+          }
+        },
+        {
+          "client_id": "144999043348-htlbfp99jtbke7ktaaacgout7bphntq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkcXhLaiMT4myuKgt9uKvlY-n6kXACuCE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144999043348-htlbfp99jtbke7ktaaacgout7bphntq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
